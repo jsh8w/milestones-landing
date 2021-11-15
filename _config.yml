@@ -34,29 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Live Twitter Timeline
-    description                           : View your live Twitter timeline right on your iPhone home screen.
-    fontawesome_icon_name                 : hashtag
+  - title                                 : Gumroad Revenue and Sales Dashboard
+    description                           : View your live Gumroad revenue and sales data on your dashboard.
+    fontawesome_icon_name                 : columns
 
-  - title                                 : Show any User's Tweets
-    description                           : Choose any specific Twitter user to follow their tweets.
-    fontawesome_icon_name                 : user
+  - title                                 : Sales, Transactions and Memberships Data
+    description                           : View revenue reports for today, past month and all time.
+    fontawesome_icon_name                 : dollar-sign
 
-  - title                                 : Beautiful iOS 14 Widget
-    description                           : Designed for specifically for iOS 14 Devices and the Apple WidgetKit SDK.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Live Push Notifications for Sales
+    description                           : Receive Push Notifications for real-time sales.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : 3 Widget Sizes
-    description                           : Use Twidget in small, medium or large; each showing different content.
-    fontawesome_icon_name                 : window-maximize
+  - title                                 : MRR Calculations
+    description                           : See MRR Calculations for monthly, quarterly, biannually and yearly subscriptions.
+    fontawesome_icon_name                 : infinity
 
-  - title                                 : 3 Widget Themes
-    description                           : Customise the style of widgets by selecting the light, dark or blue themes.
-    fontawesome_icon_name                 : palette
+  - title                                 : Product Listings
+    description                           : Keep track of all your published/draft products on Gumroad.
+    fontawesome_icon_name                 : shopping-cart
 
-  - title                                 : Feature Requests
-    description                           : If you have any feature requests, feedback or questions; please don't hesitate to get in touch.
-    fontawesome_icon_name                 : question
+  - title                                 : FaceID Security
+    description                           : FaceID/TouchID biometric security.
+    fontawesome_icon_name                 : fingerprint
 
 
 
