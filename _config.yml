@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : James Shaw
 your_link                                 : https://shaw-james.com
-your_city                                 : York, England
+your_city                                 : York, England 
 email_address                             :
 facebook_username                         :
 instagram_username                        : jsh8w
@@ -69,7 +69,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0.7
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
