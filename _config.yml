@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Gumroad Revenue and Sales Dashboard
-    description                           : View your live Gumroad revenue and sales data on your dashboard.
+  - title                                 : Gumroad Dashboard
+    description                           : View live revenue, transactional and sales data for your Gumroad account.
     fontawesome_icon_name                 : columns
 
-  - title                                 : Sales, Transactions and Memberships Data
-    description                           : View revenue reports for today, past month and all time.
+  - title                                 : Detailed Information
+    description                           : Milestones breaks down revenue reports for today, past month and all time.
     fontawesome_icon_name                 : dollar-sign
 
-  - title                                 : Live Push Notifications for Sales
-    description                           : Receive Push Notifications for real-time sales.
+  - title                                 : Push Notifications
+    description                           : Receive live push notifications whenever a new sale comes in!
     fontawesome_icon_name                 : bell
 
   - title                                 : MRR Calculations
@@ -55,9 +55,20 @@ features                                  :
     fontawesome_icon_name                 : shopping-cart
 
   - title                                 : FaceID Security
-    description                           : FaceID/TouchID biometric security.
+    description                           : Keep your Gumroad data secure with FaceID/TouchID biometric security.
     fontawesome_icon_name                 : fingerprint
 
+  - title                                 : iOS & macOS
+    description                           : Milestones runs with full support for iPhone, iPad and Mac.
+    fontawesome_icon_name                 : laptop
+  
+  - title                                 : Dark Mode
+    description                           : Milestones has full support for both light and dark modes.
+    fontawesome_icon_name                 : tint
+  
+  - title                                 : Customer Information
+    description                           : Get in touch with your Gumroad customers using contact information in Milestones.
+    fontawesome_icon_name                 : user-friends
 
 
 # Theme Settings
